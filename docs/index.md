@@ -22,5 +22,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
     this website is created to be a simple way to use mkdocs.
 
-go to [installing your ide](/ide) to continue.
+go to [installing your ide](/mkdocs-material./ide/) to continue.
 

@@ -6,7 +6,7 @@
 
 3.in visual studio install asp.net and web dev package
 !!! note ""
-to continue go to [tools](/tools)
+to continue go to [tools](/mkdocs-material./tools/)
 
 
 
