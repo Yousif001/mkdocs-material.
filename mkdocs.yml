@@ -1,1 +1,29 @@
-site_name: My Docs
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+site_name: Mkdocs-Material
+theme:
+  name: material
+
+
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - content.code.copy
+  
+
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+
+
+nav:
+  - Home: index.md
+  - IDE:  ide.md
+  - tools: tools.md
+  - creating your website: websitecreation.md
+

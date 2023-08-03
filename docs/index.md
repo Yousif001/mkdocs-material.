@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to My Site
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -15,3 +15,12 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+
+
+!!! note
+
+    this website is created to be a simple way to use mkdocs.
+
+go to [installing your ide](/ide) to continue.
+
